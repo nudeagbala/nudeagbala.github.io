@@ -1,4 +1,4 @@
-## Nneka Udeagbala
+## [Linkedin](https://www.linkedin.com/in/nneka-udeagbala/) | [Twitter](https://twitter.com/FKAmozie)
 
 You can use the [editor on GitHub](https://github.com/nudeagbala/nudeagbala.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
