@@ -1,8 +1,6 @@
-## [Linkedin](https://www.linkedin.com/in/nneka-udeagbala/) | [Twitter](https://twitter.com/FKAmozie)
+## About Me
 
-You can use the [editor on GitHub](https://github.com/nudeagbala/nudeagbala.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a third yera Informatics PhD student studying the impact of digital technology on urban spaces, specifically how digital storytelling aid mobilization, collaboration, and communal support. 
 
 ### Markdown
 
